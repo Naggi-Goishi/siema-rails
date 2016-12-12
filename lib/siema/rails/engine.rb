@@ -1,6 +1,6 @@
 module Siema
   module Rails
-    class Engine < ::RailsEngine
+    class Engine < ::Rails::Engine
     end
   end
 end
